@@ -29,7 +29,7 @@ namespace Timer_Example
             }
             else
             {
-                countTimer.Enabled = true; 
+                countTimer.Enabled = true;
             }
         }
 
